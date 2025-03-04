@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Gabriel Pérez Castro (@gperez1991) </h1>
+<h1 align="center">Gabriel Pérez Castro (@gperez1991) </h1>
 <h3 align="center">Técnico Electromecánico | Automatización industrial | Desarrollo de Software | Diseño 3D </h3>
 
 <p align="center">
