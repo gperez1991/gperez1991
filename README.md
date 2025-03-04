@@ -127,9 +127,6 @@
 </p>
 
 ---
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 gperez1991/gperez1991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
